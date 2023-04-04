@@ -26,25 +26,25 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 * Tipo: Dos Punteros
 * Nivel: Medio
 * [Explicacion](https://youtu.be/SrhQE34HnOI)
-* [Codigo]
+* [Codigo](https://github.com/CarrasTec/Ejercicios_DSA/blob/main/11.container-with-most-water.py)
 
 ### LeetCode 15. 3Sum.   
 * Tipo: Dos Punteros
 * Nivel: Medio
 * [Explicacion](https://youtu.be/kmV25vrbdiY)
-* [Codigo]
+* [Codigo](https://github.com/CarrasTec/Ejercicios_DSA/blob/main/15.3Sum.py)
 
 ### LeetCode 121. Best Time to Buy and Sell Stock.   
 * Tipo: Ventana deslizante
 * Nivel: Basico
 * [Explicacion](https://youtu.be/19F0cKhbllw)
-* [Codigo]
+* [Codigo](https://github.com/CarrasTec/Ejercicios_DSA/blob/main/121.best-time-to-buy-and-sell-stock.py)
 
 ### LeetCode 125. Palindromo Valido.   
 * Tipo: Dos Punteros
 * Nivel: Basico
 * [Explicacion](https://youtu.be/Xdmhd5kdmVo)
-* [Codigo]
+* [Codigo](https://github.com/CarrasTec/Ejercicios_DSA/blob/main/125.valid-palindrome.py)
 
 
 ### Canal de YouTube con las soluciones
