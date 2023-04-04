@@ -14,7 +14,7 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 * Tipo: Busqueda Binaria
 * Nivel: Avanzado
 * [Explicacion](https://youtu.be/zlEkhxRh2RA)
-* [Codigo]
+* [Codigo](https://github.com/CarrasTec/Ejercicios_DSA/blob/main/4.median-of-two-sorted-arrays.py)
 
 ### LeetCode 1. Suma de dos numeros.   
 * Tipo: Arrays y HashTables
@@ -48,4 +48,4 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 
 
 ### Canal de YouTube con las soluciones
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/NeuronaAlgoritmo?style=social)](https://youtube.com/@neuronaalgoritmo?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/NeuronaAlgoritmo?style=social)](https://youtube.com/@neuronaalgoritmo?sub_confirmation=1)
