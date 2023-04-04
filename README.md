@@ -54,9 +54,9 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 </a>
 </td>
 <td>
-LeetCode 4. Mediana de dos arrays ordenados  
-* Tipo: Busqueda Binaria
-* Nivel: Avanzado
+LeetCode 4. Mediana de dos arrays ordenados.     
+* Tipo: Busqueda Binaria.   
+* Nivel: Avanzado.   
 * [Codigo](https://github.com/CarrasTec/Ejercicios_DSA/blob/main/4.median-of-two-sorted-arrays.py)
 </a>
 </td>
