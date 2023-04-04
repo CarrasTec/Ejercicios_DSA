@@ -22,7 +22,7 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 <tr>
  <td>
   <a href="https://youtu.be/zlEkhxRh2RA">
-   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/4.webp">
+   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/4.webp" width="250">
   </a>
  </td>
  <td>
@@ -37,7 +37,7 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 <tr>
  <td>
   <a href="https://youtu.be/LKDLeF3ZqTo">
-   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/1.webp" width="150">
+   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/1.webp" width="250">
   </a>
  </td>
  <td>
@@ -52,7 +52,7 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 <tr>
  <td>
   <a href="https://youtu.be/SrhQE34HnOI">
-   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/11.webp">
+   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/11.webp" width="250">
   </a>
  </td>
  <td>
@@ -67,7 +67,7 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 <tr>
  <td>
   <a href="https://youtu.be/kmV25vrbdiY">
-   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/15.webp">
+   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/15.webp" width="250">
   </a>
  </td>
  <td>
@@ -82,7 +82,7 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 <tr>
  <td>
   <a href="https://youtu.be/19F0cKhbllw">
-   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/121.webp">
+   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/121.webp" width="250">
   </a>
  </td>
  <td>
@@ -97,7 +97,7 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 <tr>
  <td>
   <a href="https://youtu.be/Xdmhd5kdmVo">
-   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/125.webp">
+   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/125.webp" width="250">
   </a>
  </td>
  <td>
