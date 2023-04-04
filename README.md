@@ -46,6 +46,22 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 * [Explicacion](https://youtu.be/Xdmhd5kdmVo)
 * [Codigo](https://github.com/CarrasTec/Ejercicios_DSA/blob/main/125.valid-palindrome.py)
 
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://youtu.be/zlEkhxRh2RA">
+<img src="https://i9.ytimg.com/vi_webp/zlEkhxRh2RA/mqdefault.webp?v=641388b0&sqp=CNzcraEG&rs=AOn4CLCgFZukMl8o3L35_isEgFftFsPsdg">
+</a>
+</td>
+<td>
+LeetCode 4. Mediana de dos arrays ordenados  
+* Tipo: Busqueda Binaria
+* Nivel: Avanzado
+* [Codigo](https://github.com/CarrasTec/Ejercicios_DSA/blob/main/4.median-of-two-sorted-arrays.py)
+</a>
+</td>
+</table>
+
 
 ### Canal de YouTube con las soluciones
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/NeuronaAlgoritmo?style=social)](https://youtube.com/@neuronaalgoritmo?sub_confirmation=1)
