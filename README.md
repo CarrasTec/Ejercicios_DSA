@@ -10,23 +10,6 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 [Curso DSA Udemy](https://www.udemy.com/course/estructuras-de-datos-y-algoritmos/?referralCode=026BBE229C33F6678244)
 
 ## Ejercicios de Estructuras de datos y Algoritmos. 
-### LeetCode 4. Mediana de dos arrays ordenados  
-* Tipo: Busqueda Binaria
-* Nivel: Avanzado
-* [Explicacion](https://youtu.be/zlEkhxRh2RA)
-* [Codigo](https://github.com/CarrasTec/Ejercicios_DSA/blob/main/4.median-of-two-sorted-arrays.py)
-
-### LeetCode 1. Suma de dos numeros.   
-* Tipo: Arrays y HashTables
-* Nivel: Basico
-* [Explicacion](https://youtu.be/LKDLeF3ZqTo)
-* [Codigo](https://github.com/CarrasTec/Ejercicios_DSA/blob/main/1.two-sum.py)
-
-### LeetCode 11. Contenedor con mas Agua.   
-* Tipo: Dos Punteros
-* Nivel: Medio
-* [Explicacion](https://youtu.be/SrhQE34HnOI)
-* [Codigo](https://github.com/CarrasTec/Ejercicios_DSA/blob/main/11.container-with-most-water.py)
 
 ### LeetCode 15. 3Sum.   
 * Tipo: Dos Punteros
@@ -54,19 +37,50 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
   </tr>
 </thead>
 <tr>
-<td>
-<a href="https://youtu.be/zlEkhxRh2RA">
-<img src="https://i9.ytimg.com/vi_webp/zlEkhxRh2RA/mqdefault.webp?v=641388b0&sqp=CNzcraEG&rs=AOn4CLCgFZukMl8o3L35_isEgFftFsPsdg">
-</a>
-</td>
-<td>
-<b>LeetCode 4. Mediana de dos arrays ordenados.</b></br>
-<ul>
-<li>Tipo: Busqueda Binaria.</li>
-<li>Nivel: Avanzado.</li>
-<li><a href="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/4.median-of-two-sorted-arrays.py">Codigo</a></li>
-</ul>
-</td>
+ <td>
+  <a href="https://youtu.be/zlEkhxRh2RA">
+   <img src="https://i9.ytimg.com/vi_webp/zlEkhxRh2RA/mqdefault.webp?v=641388b0&sqp=CNzcraEG&rs=AOn4CLCgFZukMl8o3L35_isEgFftFsPsdg">
+  </a>
+ </td>
+ <td>
+  <b>LeetCode 4. Mediana de dos arrays ordenados.</b></br>
+  <ul>
+   <li>Tipo: Busqueda Binaria.</li>
+   <li>Nivel: Avanzado.</li>
+   <li><a href="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/4.median-of-two-sorted-arrays.py">Codigo</a></li>
+  </ul>
+ </td>
+</tr>
+<tr>
+ <td>
+  <a href="https://youtu.be/LKDLeF3ZqTo">
+   <img src="https://i9.ytimg.com/vi_webp/LKDLeF3ZqTo/mqdefault.webp?v=64138677&sqp=CLThraEG&rs=AOn4CLD7sLkrpWo5hDefxfpHcFyToB4Ecw">
+  </a>
+ </td>
+ <td>
+  <b>LeetCode 1. Suma de dos numeros.</b></br>
+  <ul>
+   <li>Tipo: Arrays y HashTables</li>
+   <li>Nivel: Basico.</li>
+   <li><a href="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/1.two-sum.py">Codigo</a></li>
+  </ul>
+ </td>
+</tr>
+<tr>
+ <td>
+  <a href="https://youtu.be/SrhQE34HnOI">
+   <img src="https://i9.ytimg.com/vi_webp/SrhQE34HnOI/mqdefault.webp?v=641386a1&sqp=CNzcraEG&rs=AOn4CLDwAlJfIg2EH7WkCaV_vp0TRe2olw">
+  </a>
+ </td>
+ <td>
+  <b>LeetCode 11. Contenedor con mas Agua</b></br>
+  <ul>
+   <li>Tipo: Dos Punteros</li>
+   <li>Nivel: Medio.</li>
+   <li><a href="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/11.container-with-most-water.py">Codigo</a></li>
+  </ul>
+ </td>
+</tr>
 </table>
 
 
