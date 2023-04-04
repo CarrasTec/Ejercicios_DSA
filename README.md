@@ -37,7 +37,7 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 <tr>
  <td>
   <a href="https://youtu.be/LKDLeF3ZqTo">
-   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/1.webp" width="50%">
+   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/1.webp" width="150">
   </a>
  </td>
  <td>
