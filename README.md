@@ -47,6 +47,12 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 * [Codigo](https://github.com/CarrasTec/Ejercicios_DSA/blob/main/125.valid-palindrome.py)
 
 <table style="width:100%">
+<thead>
+  <tr>
+    <th>Video</th>
+    <th>Descripcion</th>
+  </tr>
+</thead>
 <tr>
 <td>
 <a href="https://youtu.be/zlEkhxRh2RA">
@@ -55,10 +61,11 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 </td>
 <td>
 <b>LeetCode 4. Mediana de dos arrays ordenados.</b></br>
-* Tipo: Busqueda Binaria.</br>
-* Nivel: Avanzado.</br>
-* <a href="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/4.median-of-two-sorted-arrays.py">Codigo</a>
-</a>
+<ul>
+<li>Tipo: Busqueda Binaria.</li>
+<li>Nivel: Avanzado.</li>
+<li><a href="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/4.median-of-two-sorted-arrays.py">Codigo</a></li>
+</ul>
 </td>
 </table>
 
