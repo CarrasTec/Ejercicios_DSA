@@ -22,7 +22,7 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 <tr>
  <td>
   <a href="https://youtu.be/zlEkhxRh2RA">
-   <img src="https://i9.ytimg.com/vi_webp/zlEkhxRh2RA/mqdefault.webp?v=641388b0&sqp=CNzcraEG&rs=AOn4CLCgFZukMl8o3L35_isEgFftFsPsdg">
+   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/4.webp">
   </a>
  </td>
  <td>
@@ -37,7 +37,7 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 <tr>
  <td>
   <a href="https://youtu.be/LKDLeF3ZqTo">
-   <img src="https://i9.ytimg.com/vi_webp/LKDLeF3ZqTo/mqdefault.webp?v=64138677&sqp=CLThraEG&rs=AOn4CLD7sLkrpWo5hDefxfpHcFyToB4Ecw">
+   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/1.webp">
   </a>
  </td>
  <td>
@@ -52,7 +52,7 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 <tr>
  <td>
   <a href="https://youtu.be/SrhQE34HnOI">
-   <img src="https://i9.ytimg.com/vi_webp/SrhQE34HnOI/mqdefault.webp?v=641386a1&sqp=CNzcraEG&rs=AOn4CLDwAlJfIg2EH7WkCaV_vp0TRe2olw">
+   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/11.webp">
   </a>
  </td>
  <td>
@@ -67,7 +67,7 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 <tr>
  <td>
   <a href="https://youtu.be/kmV25vrbdiY">
-   <img src="https://i9.ytimg.com/vi_webp/kmV25vrbdiY/mqdefault.webp?v=64138a2f&sqp=CNzcraEG&rs=AOn4CLCMA3r1oidkd1dsaEO9-EbEIo0FCg">
+   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/15.webp">
   </a>
  </td>
  <td>
@@ -82,7 +82,7 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 <tr>
  <td>
   <a href="https://youtu.be/19F0cKhbllw">
-   <img src="https://i9.ytimg.com/vi_webp/19F0cKhbllw/mqdefault.webp?v=64138c23&sqp=CNzcraEG&rs=AOn4CLD_zg3nHvxQA4OYQfdMaGJzC-n29Q">
+   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/121.webp">
   </a>
  </td>
  <td>
@@ -97,7 +97,7 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 <tr>
  <td>
   <a href="https://youtu.be/Xdmhd5kdmVo">
-   <img src="https://i9.ytimg.com/vi_webp/Xdmhd5kdmVo/mqdefault.webp?v=64138f98&sqp=CNzcraEG&rs=AOn4CLDkoDPtPFAzKMmOm4EuSajuOqhtOw">
+   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/125.webp">
   </a>
  </td>
  <td>
