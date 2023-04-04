@@ -20,7 +20,7 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 * Tipo: Arrays y HashTables
 * Nivel: Basico
 * [Explicacion](https://youtu.be/LKDLeF3ZqTo)
-* [Codigo]
+* [Codigo](https://github.com/CarrasTec/Ejercicios_DSA/blob/main/1.two-sum.py)
 
 ### LeetCode 11. Contenedor con mas Agua.   
 * Tipo: Dos Punteros
