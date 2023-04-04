@@ -46,6 +46,9 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 * [Explicacion](https://youtu.be/Xdmhd5kdmVo)
 * [Codigo](https://github.com/CarrasTec/Ejercicios_DSA/blob/main/125.valid-palindrome.py)
 
+| Video                        | Descripcion       |
+|------------------------------|-------------------|
+| https://youtu.be/LKDLeF3ZqTo | - tipo.   - nivel |
 
 ### Canal de YouTube con las soluciones
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/NeuronaAlgoritmo?style=social)](https://youtube.com/@neuronaalgoritmo?sub_confirmation=1)
