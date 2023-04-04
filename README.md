@@ -11,24 +11,6 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
 
 ## Ejercicios de Estructuras de datos y Algoritmos. 
 
-### LeetCode 15. 3Sum.   
-* Tipo: Dos Punteros
-* Nivel: Medio
-* [Explicacion](https://youtu.be/kmV25vrbdiY)
-* [Codigo](https://github.com/CarrasTec/Ejercicios_DSA/blob/main/15.3Sum.py)
-
-### LeetCode 121. Best Time to Buy and Sell Stock.   
-* Tipo: Ventana deslizante
-* Nivel: Basico
-* [Explicacion](https://youtu.be/19F0cKhbllw)
-* [Codigo](https://github.com/CarrasTec/Ejercicios_DSA/blob/main/121.best-time-to-buy-and-sell-stock.py)
-
-### LeetCode 125. Palindromo Valido.   
-* Tipo: Dos Punteros
-* Nivel: Basico
-* [Explicacion](https://youtu.be/Xdmhd5kdmVo)
-* [Codigo](https://github.com/CarrasTec/Ejercicios_DSA/blob/main/125.valid-palindrome.py)
-
 <table style="width:100%">
 <thead>
   <tr>
@@ -78,6 +60,51 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
    <li>Tipo: Dos Punteros</li>
    <li>Nivel: Medio.</li>
    <li><a href="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/11.container-with-most-water.py">Codigo</a></li>
+  </ul>
+ </td>
+</tr>
+<tr>
+ <td>
+  <a href="https://youtu.be/kmV25vrbdiY">
+   <img src="https://i9.ytimg.com/vi_webp/kmV25vrbdiY/mqdefault.webp?v=64138a2f&sqp=CNzcraEG&rs=AOn4CLCMA3r1oidkd1dsaEO9-EbEIo0FCg">
+  </a>
+ </td>
+ <td>
+  <b>LeetCode 15. 3Sum</b></br>
+  <ul>
+   <li>Tipo: Dos Punteros</li>
+   <li>Nivel: Medio.</li>
+   <li><a href="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/15.3Sum.py">Codigo</a></li>
+  </ul>
+ </td>
+</tr>
+<tr>
+ <td>
+  <a href="https://youtu.be/19F0cKhbllw">
+   <img src="https://i9.ytimg.com/vi_webp/19F0cKhbllw/mqdefault.webp?v=64138c23&sqp=CNzcraEG&rs=AOn4CLD_zg3nHvxQA4OYQfdMaGJzC-n29Q">
+  </a>
+ </td>
+ <td>
+  <b>LeetCode 121. Best Time to Buy and Sell Stock</b></br>
+  <ul>
+   <li>Tipo: Ventana deslizante</li>
+   <li>Nivel: Basico.</li>
+   <li><a href="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/121.best-time-to-buy-and-sell-stock.py">Codigo</a></li>
+  </ul>
+ </td>
+</tr>
+<tr>
+ <td>
+  <a href="https://youtu.be/Xdmhd5kdmVo">
+   <img src="https://i9.ytimg.com/vi_webp/Xdmhd5kdmVo/mqdefault.webp?v=64138f98&sqp=CNzcraEG&rs=AOn4CLDkoDPtPFAzKMmOm4EuSajuOqhtOw">
+  </a>
+ </td>
+ <td>
+  <b>LeetCode 125. Palindromo Valido.</b></br>
+  <ul>
+   <li>Tipo: Dos Punteros</li>
+   <li>Nivel: Basico.</li>
+   <li><a href="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/125.valid-palindrome.py">Codigo</a></li>
   </ul>
  </td>
 </tr>
