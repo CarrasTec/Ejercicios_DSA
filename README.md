@@ -7,7 +7,7 @@ Todos los ejercicios son explicados en base a las estructuras de datos, intentan
 
 ## Curso de Estructuras de datos y Algoritmos
 Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder entender a mas profundidad las soluciones de los ejercicios, puedes revisar mis cursos en Udemy:  
-[(https://img-c.udemycdn.com/course/200_H/4992840_5721_3.jpg)](https://www.udemy.com/course/estructuras-de-datos-y-algoritmos/?referralCode=026BBE229C33F6678244)
+[![Curso DSA Udemy](https://img-c.udemycdn.com/course/200_H/4992840_5721_3.jpg)](https://www.udemy.com/course/estructuras-de-datos-y-algoritmos/?referralCode=026BBE229C33F6678244)
 [Curso DSA Udemy](https://www.udemy.com/course/estructuras-de-datos-y-algoritmos/?referralCode=026BBE229C33F6678244)
 
 ## Ejercicios de Estructuras de datos y Algoritmos. 
