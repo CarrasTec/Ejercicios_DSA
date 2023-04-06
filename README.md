@@ -109,6 +109,21 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
   </ul>
  </td>
 </tr>
+<tr>
+ <td>
+  <a href="https://youtu.be/mlF8CnGXd_g">
+   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/128.webp" width="250">
+  </a>
+ </td>
+ <td>
+  <b>LeetCode 128. Secuencia Consecutiva mas larga.</b></br>
+  <ul>
+   <li>Tipo: Hash Map</li>
+   <li>Nivel: Medio.</li>
+   <li><a href="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/128.LongestConsecutive.py">Codigo</a></li>
+  </ul>
+ </td>
+</tr>
 </table>
 
 
