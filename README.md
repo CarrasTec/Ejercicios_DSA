@@ -120,7 +120,7 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
   <ul>
    <li>Tipo: Hash Map</li>
    <li>Nivel: Medio.</li>
-   <li><a href="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/128.LongestConsecutive.py">Codigo</a></li>
+   <li><a href="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/128.longestConsecutive.py">Codigo</a></li>
   </ul>
  </td>
 </tr>
