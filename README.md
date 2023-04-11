@@ -124,6 +124,21 @@ Si te interesa aprender mas de Estructura de Datos y Algoritmos y asi poder ente
   </ul>
  </td>
 </tr>
+<tr>
+ <td>
+  <a href="https://youtu.be/mlF8CnGXd_g">
+   <img src="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/img/128.webp" width="250">
+  </a>
+ </td>
+ <td>
+  <b>LeetCode 217. Contiene Duplicados.</b></br>
+  <ul>
+   <li>Tipo: Set</li>
+   <li>Nivel: Basico.</li>
+   <li><a href="https://github.com/CarrasTec/Ejercicios_DSA/blob/main/217.containsDuplicate.py">Codigo</a></li>
+  </ul>
+ </td>
+</tr>
 </table>
 
 
